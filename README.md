@@ -2,4 +2,4 @@
 - 👀 I’m interested in development, graphic designing, ui/ux designing.
 - 🌱 I’m currently learning react native, three.js and webGL.
 - 💞️ I’m looking to collaborate on projects related to my on going learning ventures or my exsisting skills. 
-- 📫 Any one can ping me for work over here https://www.linkedin.com/in/zahra-naveed-7a6130193/
+- 📫 Any one can ping me for work on my [Website](https://zahranaveed.github.io/)
